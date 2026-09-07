@@ -1,178 +1,116 @@
-# 🟠 WEBGYRE
-
-### We Design. We Develop. We Grow.
-
-**WEBGYRE** is a digital agency building modern websites, web applications, brands, and digital experiences that move businesses forward.
-
-> **WE DON'T JUST BUILD WEBSITES.**
-> **WE BUILD WHAT'S NEXT.**
-
----
-
-## 🚀 What We Do
-
-We combine strategy, design, development, and growth to create digital experiences that are built for real business impact.
-
-| Service                | What We Build                                        |
-| ---------------------- | ---------------------------------------------------- |
-| 🌐 **Web Design**      | Modern, responsive & conversion-focused websites     |
-| 💻 **Web Development** | Fast, scalable & high-performance web experiences    |
-| 🎨 **UI/UX Design**    | Intuitive interfaces and thoughtful user experiences |
-| 🟠 **Branding**        | Digital identities that stand out                    |
-| 📈 **Digital Growth**  | SEO, performance & conversion optimization           |
-
----
-
-## 🧠 Our Approach
-
-### 01 — Discover
-
-We understand the business, audience, goals, and challenges.
-
-### 02 — Strategize
-
-We define the right digital direction before we start building.
-
-### 03 — Design
-
-We create purposeful interfaces and visual systems.
-
-### 04 — Develop
-
-We turn ideas into fast, scalable, reliable digital products.
-
-### 05 — Launch
-
-We test, optimize, and launch with confidence.
-
-### 06 — Grow
-
-We continuously improve the digital experience and help businesses move forward.
-
----
-
-## 🛠️ Technology
-
-We work with modern technologies and tools to build reliable digital experiences.
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-
-### Backend & Infrastructure
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![API](https://img.shields.io/badge/API-111111?style=flat-square)
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
-> Our technology stack evolves with the project. We choose tools based on performance, scalability, maintainability, and business requirements.
-
----
-
-## ✨ Featured Work
-
-Our projects combine thoughtful design, modern technology, and business-focused thinking.
-
-### 🌐 Web Experiences
-
-Modern websites designed to communicate clearly, build trust, and convert visitors.
-
-### 💻 Digital Products
-
-Scalable web applications and digital products built around real user needs.
-
-### 🎨 Brand Experiences
-
-Distinctive digital identities designed to make brands memorable.
-
-> More projects coming soon.
-
----
-
-## 🎯 What We Believe
-
-### Design should have a purpose.
-
-Beautiful design is only valuable when it helps people understand, trust, and take action.
-
-### Technology should solve problems.
-
-We don't use technology just because it's trendy. We use the right technology for the right problem.
-
-### Websites should do more than look good.
-
-A great website should be fast, accessible, easy to use, and built to support business growth.
-
-### Growth doesn't stop at launch.
-
-Launching a website is the beginning — not the end.
-
----
-
-## 🟠 Why WEBGYRE?
-
-**Strategy + Design + Development + Growth**
-
-Instead of treating these as separate pieces, we bring them together into one digital process.
-
-That's the WEBGYRE approach.
-
-> **DESIGN • DEVELOP • GROW**
-
----
-
-## 📂 Projects
-
-Explore our repositories to see what we're building.
-
-Every project is created with a focus on:
-
-* Clean code
-* Strong user experience
-* Responsive design
-* Performance
-* Accessibility
-* Scalability
-* Maintainability
-
----
-
-## 🌍 Let's Build What's Next
-
-Have an idea, website, digital product, or brand that needs to move forward?
-
-**Let's build something meaningful.**
-
-### WEBGYRE
-
-**We Design. We Develop. We Grow. 🚀**
-
-**Web Design • Web Development • UI/UX • Branding • Digital Growth**
-
----
-
-### Connect With WEBGYRE
-
-🌐 **Website:** webgyre.com
-𝕏 **X:** @WEBGYRE
-📸 **Instagram:** @WEBGYRE
-💼 **LinkedIn:** WEBGYRE
-▶️ **YouTube:** WEBGYRE
-
----
+<p align="center">
+  <a href="https://webgyre.com/">
+    <img src="./assets/webgyre-github-banner.svg" alt="WebGyre, websites built for real business" width="100%">
+  </a>
+</p>
 
 <p align="center">
-  <strong>WEBGYRE</strong>
-  <br>
-  Design • Develop • Grow
-  <br><br>
-  Building digital experiences that move businesses forward.
+  <a href="https://webgyre.com/"><img src="https://img.shields.io/badge/WEBSITE-WEBGYRE.COM-FE4301?style=for-the-badge&amp;labelColor=08090B" alt="Visit WebGyre"></a>
+  <a href="https://webgyre.com/portfolio"><img src="https://img.shields.io/badge/VIEW-LIVE_WORK-FE4301?style=for-the-badge&amp;labelColor=08090B" alt="View WebGyre portfolio"></a>
+  <a href="https://webgyre.com/contact"><img src="https://img.shields.io/badge/START-A_PROJECT-FFFFFF?style=for-the-badge&amp;labelColor=08090B" alt="Start a project"></a>
+</p>
+
+<p align="center">
+  <strong>Design. Develop. Grow.</strong><br>
+  Website design and development for Indian businesses.
+</p>
+
+---
+
+## Websites that have a job to do
+
+WebGyre designs and develops websites for small businesses in India. We work from Parbhani, Maharashtra and deliver online across the country.
+
+The build can be WordPress, hand-coded or ecommerce. The choice depends on who will manage the site, what it needs to sell and how often it will change.
+
+| What we build | What it needs to do |
+|:--|:--|
+| Business websites | Explain the offer and turn visits into enquiries |
+| WordPress websites | Give the team a practical editing workflow |
+| Custom frontends | Keep the experience fast, focused and distinctive |
+| Ecommerce websites | Sell products with a clear checkout path |
+| Redesigns | Fix weak structure, confusing copy and dated presentation |
+| Maintenance | Keep an existing website secure, current and working |
+
+## Open the work
+
+Do not take the pitch on trust. Open the product and inspect it.
+
+| Live destination | What you will find |
+|:--|:--|
+| **[Portfolio](https://webgyre.com/portfolio)** | Working website concepts across clinics, education, retail, travel, hospitality and local services |
+| **[Website cost calculator](https://webgyre.com/#calculator)** | A quick estimate based on pages, build type and project features |
+| **[Packages and pricing](https://webgyre.com/pricing)** | Current website, ecommerce and maintenance options |
+| **[Client brief](https://webgyre.com/client-brief)** | The short form we use to understand a project before work starts |
+
+## What every build is measured against
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Clear before clever</strong><br><br>
+      A visitor should understand the business, the offer and the next step without decoding agency language.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Mobile is the real canvas</strong><br><br>
+      Layout, tap targets, forms and performance are checked on the smaller screens customers carry.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Ownership stays with the client</strong><br><br>
+      Domain, content and project files should not become a permanent agency lock-in.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Proof before a sales promise</strong><br><br>
+      We use working demos, visible pricing and a written scope so both sides know what is being built.
+    </td>
+  </tr>
+</table>
+
+## Working stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-08090B?style=flat-square&amp;logo=html5&amp;logoColor=FE4301" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-08090B?style=flat-square&amp;logo=css3&amp;logoColor=FE4301" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-08090B?style=flat-square&amp;logo=javascript&amp;logoColor=FE4301" alt="JavaScript">
+  <img src="https://img.shields.io/badge/WordPress-08090B?style=flat-square&amp;logo=wordpress&amp;logoColor=FE4301" alt="WordPress">
+  <img src="https://img.shields.io/badge/Cloudflare-08090B?style=flat-square&amp;logo=cloudflare&amp;logoColor=FE4301" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/GitHub-08090B?style=flat-square&amp;logo=github&amp;logoColor=FE4301" alt="GitHub">
+</p>
+
+We choose the smallest stack that can do the job well. A five-page local-business site should not inherit the maintenance burden of a large application. A store or content-heavy website gets a system the client can operate after launch.
+
+## How a project moves
+
+```text
+Brief  ->  Demo  ->  Scope  ->  Build  ->  QA  ->  Launch  ->  Support
+```
+
+1. Share the business, audience and required pages.
+2. Review a direction before the full build begins.
+3. Approve the scope, price and delivery plan.
+4. Test the site on mobile and desktop.
+5. Launch with the files, access and handover agreed in writing.
+
+## Talk to WebGyre
+
+| | |
+|:--|:--|
+| Website | [webgyre.com](https://webgyre.com/) |
+| Start a project | [Project enquiry form](https://webgyre.com/contact) |
+| Send a brief | [Client brief](https://webgyre.com/client-brief) |
+| Email | [support@webgyre.com](mailto:support@webgyre.com) |
+| Base | Parbhani, Maharashtra, India |
+| Social | [X](https://x.com/Webgyre) / [Instagram](https://www.instagram.com/webgyre/) / [YouTube](https://www.youtube.com/@webGYRE) |
+
+<br>
+
+<p align="center">
+  <strong>Follow the public work</strong><br>
+  Star this repository if you want to see what WebGyre publishes next.
+</p>
+
+<p align="center">
+  <a href="https://github.com/webgyre/webgyre"><img src="https://img.shields.io/badge/STAR-WEBGYRE-FE4301?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=08090B" alt="Star WebGyre on GitHub"></a>
 </p>
