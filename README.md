@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://webgyre.com/"><img src="https://img.shields.io/badge/WEBSITE-WEBGYRE.COM-FE4301?style=for-the-badge&amp;labelColor=08090B" alt="Visit WebGyre"></a>
-  <a href="https://webgyre.com/portfolio"><img src="https://img.shields.io/badge/VIEW-LIVE_WORK-FE4301?style=for-the-badge&amp;labelColor=08090B" alt="View WebGyre portfolio"></a>
-  <a href="https://webgyre.com/contact"><img src="https://img.shields.io/badge/START-A_PROJECT-FFFFFF?style=for-the-badge&amp;labelColor=08090B" alt="Start a project"></a>
+  <a href="https://webgyre.com/"><strong>Visit the studio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="#selected-design-work"><strong>Selected work</strong></a> &nbsp; / &nbsp;
+  <a href="https://webgyre.com/pricing"><strong>Packages &amp; pricing</strong></a> &nbsp; / &nbsp;
+  <a href="https://webgyre.com/contact"><strong>Start a project ↗</strong></a>
 </p>
 
 <p align="center">
@@ -23,6 +24,47 @@ WebGyre designs and develops websites for small businesses in India. We work fro
 
 The build can be WordPress, hand-coded or ecommerce. The choice depends on who will manage the site, what it needs to sell and how often it will change.
 
+Your website might need to book a consultation, explain a course, sell a product or show a body of work. We start with that task. It shapes the page structure, the design and the route from a visitor's first question to an enquiry.
+
+## Selected design work
+
+Four different businesses, four different visual directions. These are **fictional concept demos created by WebGyre**, not paid client case studies. Open each one to try the full website.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://webgyre.com/demos/aerleaf-terrace"><img src="./assets/work-aerleaf.png" width="100%" alt="Aerleaf terrace studio concept: garden imagery and editorial typography"></a>
+      <h3>01 / Aerleaf</h3>
+      <p>Terrace and rooftop design. Large garden imagery, a before-and-after comparison, space planning and a layered project story.</p>
+      <a href="https://webgyre.com/demos/aerleaf-terrace"><strong>Open landscape concept ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://webgyre.com/demos/nestleaf-balcony"><img src="./assets/work-nestleaf.png" width="100%" alt="Nestleaf balcony studio concept: a warm, image-led garden website"></a>
+      <h3>02 / Nestleaf</h3>
+      <p>Small-space garden studio. A footprint planner, sunlight choices and planting ideas turn a visual portfolio into something visitors can use.</p>
+      <a href="https://webgyre.com/demos/nestleaf-balcony"><strong>Open balcony concept ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://webgyre.com/demos/sama-family-clinic"><img src="./assets/work-sama.png" width="100%" alt="Sama Family Clinic concept: clear care navigation and appointment information"></a>
+      <h3>03 / Sama Family Clinic</h3>
+      <p>A family clinic experience organised around patient concerns, practical care information and an OPD board. A calm direction for a busy setting.</p>
+      <a href="https://webgyre.com/demos/sama-family-clinic"><strong>Open healthcare concept ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://webgyre.com/demos/orbit-coding-academy"><img src="./assets/work-orbit.png" width="100%" alt="Orbit Coding Academy concept: dark interface with project and cohort information"></a>
+      <h3>04 / Orbit Coding Academy</h3>
+      <p>A coding school presented through projects, curriculum and cohort details. A technical visual language with clear routes into the course.</p>
+      <a href="https://webgyre.com/demos/orbit-coding-academy"><strong>Open education concept ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+**[Browse the full portfolio →](https://webgyre.com/portfolio)**
+
+## From the first page to the daily work
+
 | What we build | What it needs to do |
 |:--|:--|
 | Business websites | Explain the offer and turn visits into enquiries |
@@ -32,9 +74,27 @@ The build can be WordPress, hand-coded or ecommerce. The choice depends on who w
 | Redesigns | Fix weak structure, confusing copy and dated presentation |
 | Maintenance | Keep an existing website secure, current and working |
 
+### Business websites and custom design
+
+For service companies, clinics, institutes, shops and independent professionals. We work through navigation, service pages, mobile layouts and contact forms together. Brand colours and typography support the business; the page content answers the questions a customer brings with them.
+
+### WordPress that fits your team
+
+For businesses that need to publish articles, edit services or manage content regularly. The brief sets out what your team should be able to change. Theme work, plugins, training and any paid licences belong in the scope, so there is a clear editing and maintenance plan after launch.
+
+### Ecommerce and payment integrations
+
+Product pages, collections, cart and checkout need to work as one buying journey. We discuss product variants, shipping, payment provider requirements and order handling before quoting. Gateway approval, transaction charges and third-party subscriptions remain separate provider requirements.
+
+### Redesign, search foundations and maintenance
+
+An existing site may need better navigation, clearer pages or a simpler enquiry flow. Redesign planning includes existing content and URLs. Search work covers agreed page titles, headings, internal links and metadata. Maintenance can cover updates and fixes; the exact tasks and response expectations are agreed per plan.
+
+**[Compare build and maintenance options →](https://webgyre.com/pricing)**
+
 ## Open the work
 
-Do not take the pitch on trust. Open the product and inspect it.
+Try the tools, compare packages and send the details when you are ready.
 
 | Live destination | What you will find |
 |:--|:--|
@@ -70,28 +130,69 @@ Do not take the pitch on trust. Open the product and inspect it.
 
 ## Working stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-08090B?style=flat-square&amp;logo=html5&amp;logoColor=FE4301" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-08090B?style=flat-square&amp;logo=css3&amp;logoColor=FE4301" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-08090B?style=flat-square&amp;logo=javascript&amp;logoColor=FE4301" alt="JavaScript">
-  <img src="https://img.shields.io/badge/WordPress-08090B?style=flat-square&amp;logo=wordpress&amp;logoColor=FE4301" alt="WordPress">
-  <img src="https://img.shields.io/badge/Cloudflare-08090B?style=flat-square&amp;logo=cloudflare&amp;logoColor=FE4301" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/GitHub-08090B?style=flat-square&amp;logo=github&amp;logoColor=FE4301" alt="GitHub">
-</p>
+**HTML & CSS** · **JavaScript** · **WordPress** · **Cloudflare** · **GitHub**
 
 We choose the smallest stack that can do the job well. A five-page local-business site should not inherit the maintenance burden of a large application. A store or content-heavy website gets a system the client can operate after launch.
 
 ## How a project moves
 
-```text
-Brief  ->  Demo  ->  Scope  ->  Build  ->  QA  ->  Launch  ->  Support
-```
+| Stage | What we work through |
+|:--|:--|
+| 01 / Brief | Business goals, audience, content, pages and any existing website |
+| 02 / Direction | A demo or design direction to review before the full build |
+| 03 / Scope | Deliverables, revisions, dependencies, price and delivery plan |
+| 04 / Build | Approved pages, responsive layouts and agreed integrations |
+| 05 / Review | Mobile and desktop checks, links, forms and content corrections |
+| 06 / Handover | Launch, ownership and access details, editing guidance and support scope |
 
-1. Share the business, audience and required pages.
-2. Review a direction before the full build begins.
-3. Approve the scope, price and delivery plan.
-4. Test the site on mobile and desktop.
-5. Launch with the files, access and handover agreed in writing.
+## Built from Parbhani, working across India
+
+We collaborate online through the brief, design review and delivery. A business in Mumbai can review the same working demo as one in Hyderabad or Delhi. Location does not change the need for clear communication and a written scope.
+
+Our service-area pages cover [Parbhani](https://webgyre.com/website-design-company-parbhani), [Mumbai](https://webgyre.com/website-design-company-mumbai), [Pune](https://webgyre.com/website-design-company-pune), [Hyderabad](https://webgyre.com/website-design-company-hyderabad), [Chennai](https://webgyre.com/website-design-company-chennai), [Kolkata](https://webgyre.com/website-design-company-kolkata), [Nizamabad](https://webgyre.com/website-design-company-nizamabad), [Aurangabad](https://webgyre.com/website-design-company-aurangabad), [Nanded](https://webgyre.com/website-design-company-nanded), [Thane](https://webgyre.com/website-design-company-thane) and [Delhi](https://webgyre.com/website-design-company-delhi). Parbhani is our base; these are online service areas.
+
+## Before we start
+
+<details>
+<summary><strong>What should I send for an estimate?</strong></summary>
+
+Your business name, services or products, required pages, city, existing site if any and a rough deadline. A few websites you like can help explain the direction. Use the [client brief](https://webgyre.com/client-brief); you do not need a technical specification to begin.
+
+</details>
+
+<details>
+<summary><strong>Should I choose WordPress or a hand-coded website?</strong></summary>
+
+WordPress suits regular content editing. A hand-coded site can suit a focused service website or a specific interface. We discuss who will maintain the content, what integrations are needed and what your budget covers before recommending either.
+
+</details>
+
+<details>
+<summary><strong>What is included in the price?</strong></summary>
+
+The approved quote defines pages, features, revisions and handover. Domain renewals, hosting, paid plugins, payment processing and ongoing maintenance should be listed separately where applicable. The [pricing page](https://webgyre.com/pricing) gives the starting options; the project scope determines the final quote.
+
+</details>
+
+<details>
+<summary><strong>Can you work on a site I already have?</strong></summary>
+
+Yes. Share the public URL and the problems you want fixed. We first establish what should stay, what needs rebuilding and how existing pages or integrations will be handled. Send passwords only through an agreed secure access method, never in a public issue.
+
+</details>
+
+<details>
+<summary><strong>Are the portfolio names real clients?</strong></summary>
+
+The four showcased projects are fictional demonstrations of our design and development work. They show layout and interaction decisions. They are not customer endorsements or claims of commercial results.
+
+</details>
+
+## WebGyre on GitHub
+
+This repository contains our public profile and brand assets. It is a directory into our work, not the source code or administration system for client websites. Public examples can be explored through the portfolio links above.
+
+For corrections to this profile, [open an issue](https://github.com/webgyre/webgyre/issues). For a business enquiry, use the contact form. Security reports belong in the [private reporting channel](https://github.com/webgyre/webgyre/security/advisories/new); see our [security policy](SECURITY.md).
 
 ## Talk to WebGyre
 
@@ -108,9 +209,10 @@ Brief  ->  Demo  ->  Scope  ->  Build  ->  QA  ->  Launch  ->  Support
 
 <p align="center">
   <strong>Follow the public work</strong><br>
-  Star this repository if you want to see what WebGyre publishes next.
+  Visit the demos. Share useful feedback. Follow WebGyre for future public work.
 </p>
 
 <p align="center">
-  <a href="https://github.com/webgyre/webgyre"><img src="https://img.shields.io/badge/STAR-WEBGYRE-FE4301?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=08090B" alt="Star WebGyre on GitHub"></a>
+  <a href="https://webgyre.com/contact"><strong>Tell us what you want to build ↗</strong></a><br><br>
+  <sub>WEBGYRE / DESIGN · DEVELOP · GROW / PARBHANI, INDIA</sub>
 </p>
